@@ -171,7 +171,7 @@ This clearance value is not universal, it's value depends on several factors:
 - The selected finish for earch part, each finish type adds more or less thickness to your final part.
 
 A clearance of 0.15mm was for me suitable for the following finishing scenarios:
-- Powdercoated top + raw  (tested).
+- Powdercoated top + raw bottom (tested).
 - Powdercoated top + anodized type II bottom (not tested).
 - Hard anodized type III top + raw or anodized type II bottom (not tested).
 - Anodized type II top + raw or anodized type II bottom (not tested).
@@ -212,7 +212,7 @@ For those the layout options are limited to the following:
 - 6.25u spacebar only.
 - Left 1.25u CTRL/Win/ALT keys only.
 - Right 1.5u CTRL/ALT keys only.
-- Choice between standard or stepped Caps Llock.
+- Choice between standard or stepped Caps Lock.
 - Choice between standard or split Backspace.
 
 ### QMK VIA/VIAL firmware
