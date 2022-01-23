@@ -1,0 +1,8 @@
+(module U262-161N-4BVC11 (layer F.Cu) (tedit 5EB5741E)
+  (fp_text reference REF** (at 0 6.35) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value U262-161N-4BVC11 (at 0 -8.255) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

@@ -1,0 +1,13 @@
+(module Mousebite3 (layer F.Cu) (tedit 619ABA12)
+  (fp_text reference REF** (at 0.0508 5.75) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Mousebite3 (at 0.0508 -5.9182) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start -2.25 0.75) (end -2.25 1.75) (angle -180) (layer Dwgs.User) (width 0.12))
+  (fp_arc (start 2.25 0.75) (end 2.25 -0.25) (angle -180) (layer Dwgs.User) (width 0.12))
+  (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -0.75 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0.75 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+)
