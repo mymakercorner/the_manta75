@@ -34,6 +34,10 @@ The [Satisfaction 75](https://cannonkeys.com/collections/satisfaction-75) have t
 - Weight:
     - Aluminium top and bottom case: ~1,46Kg
     - Alumininum top and copper bottom case: ~4Kg
+- Screws:
+    - 6X M2.5x10 screws for top/bottom parts.
+    - 4X M2.5x4 screws for plate/bottom parts.
+    - 4X M2x4 screws for USB daughterboard. 
 
 ## Licensing 
 
@@ -207,6 +211,11 @@ Available plates data is available in *Plates* directory, both in DXF and STEP f
 Two versions are available:
 - ANSI.
 - ISO.
+
+ANSI only version gerber files of plate data for PCB manufacturing have also been added.  
+Two versions are available:
+- Gerber file for aluminium PCB manufacturing (tested).
+- Gerber files for FR4 PCB manufacturing (untested).     
 
 For those the layout options are limited to the following:
 - 6.25u spacebar only.
